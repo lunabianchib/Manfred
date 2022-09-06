@@ -1,0 +1,142 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luna",
+      "surnames": "Bianchi Borches",
+      "title": "Diseñadora y Desarrolladora Front End",
+      "description": "Mis principales cualidades son mi carácter autodidacta e inquieto, aplicada al 100% en el aprendizaje e investigación de nuevos conocimientos relacionados con mi actividad profesional, así como el desarrollo de proyectos personales tanto a nivel individual como colectivo, siempre con el objetivo de disfrutar, aprender y mejorar tanto personal como profesional.",
+      "avatar": {
+        "alt": "me.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/4d5bd1f5-5b8f-4865-8c57-f51ae14c8fd7_me.png"
+      },
+      "location": {
+        "notes": "Entre Ríos, Argentina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/lunabianchib"
+      },
+      {
+        "type": "other",
+        "URL": "https://instagram.com/luna_bianchib"
+      },
+      {
+        "type": "other",
+        "URL": "https://lunabianchib.github.io"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/luna-bianchi-borches-005801205/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Mi Introducción",
+        "fact": "Hola, Soy Luna Bianchi Borches, tengo 19 años y soy de Argentina. Estudiante de Diseño Grafico y Animación Digital. Desde que fui a la secundaria me llamó la atención la programación y el diseño, por eso decidi y quise dedicarme a esto. Podría describirme como una persona con ganas de aprender, responsable con sus obligaciones y que quiere crecer tanto personalmente como profesionalmente."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/luna-bianchi-borches-005801205/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
